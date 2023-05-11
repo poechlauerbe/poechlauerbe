@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poechlauerbe
-- 👀 I’m interested in websites and apps.
-- 🌱 I’m currently learning the basics of Front-End Engineering.
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning C at 42.
 - 📫 How to reach me - poechi203@gmx.at
 
 <!---
