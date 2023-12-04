@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poechlauerbe
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning C at 42.
+- 🌱 I’m currently learning C at 42 Vienna.
 - 📫 How to reach me - poechi203@gmx.at
 
 <!---
