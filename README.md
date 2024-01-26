@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying at 42 Vienna.
 - 📫 How to reach me:
 
- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://at.linkedin.com/in/benjamin-p%C3%B6chlauer-77448b278)
+ [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/benjamin-poechlauer/)
  
 - Working at 42 Vienna with:
 
