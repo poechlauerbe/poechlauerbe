@@ -4,7 +4,7 @@
 - 📫 How to reach me - poechi203@gmx.at
 - Working at 42 Vienna with:
 
- [![My Skills](https://skillicons.dev/icons?i=linux,vscode,git,github,c,cpp,docker,bash)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=linux,vscode,git,github,c,cpp,docker,bash)]()
 
 
 Already worked with:
