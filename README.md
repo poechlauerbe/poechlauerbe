@@ -10,7 +10,7 @@
  [![My Skills](https://skillicons.dev/icons?i=linux,vscode,git,github,c,cpp,docker,bash)]()
 
 
-Already worked with:
+- Already worked with:
 
 
  [![My Skills](https://skillicons.dev/icons?i=py,kotlin,androidstudio,html,css,js,sqlite,raspberrypi)]()
