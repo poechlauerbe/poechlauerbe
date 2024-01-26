@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently studying at 42 Vienna.
 - 📫 How to reach me - poechi203@gmx.at
-Working at 42 Vienna with:
+- Working at 42 Vienna with:
 
  [![My Skills](https://skillicons.dev/icons?i=linux,vscode,git,github,c,cpp,docker,bash)](https://skillicons.dev)
 
